@@ -44,11 +44,13 @@ Robert Ness
 https://github.com/altdeep/causalML
 
 ## more Causal Inference coures 
-Nick Huntington-Klein Econ course at University of Washington
+Nick Huntington-Klein Econ course
 
-https://github.com/NickCH-K/introcausality
+https://www.nickchk.com/econ305.html
 
-Brad Neal/Yoshua Bengio - MILA
+Brad Neal/Yoshua Bengio
+
+https://www.bradyneal.com/causal-inference-course
 
 Rethinking Statistics/Science Before Stats - Richard McElreath
 

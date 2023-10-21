@@ -52,7 +52,7 @@ Brad Neal/Yoshua Bengio
 
 https://www.bradyneal.com/causal-inference-course
 
-Rethinking Statistics/Science Before Stats - Richard McElreath
+Science Before Stats - Richard McElreath (3 hours)
 
 https://www.youtube.com/watch?v=KNPYUVmY3NM
 
@@ -70,6 +70,10 @@ Boris Sobolev (public health) of UBC runs lecture in Sobolev spaces
 
 https://world.hey.com/aiia/class-12-road-map-d23e4787
 
+
+Rethinking Statistics (refreshed every year) - Richard McElreath again in a full-blown course
+
+https://github.com/rmcelreath/stat_rethinking_2023
 
 ## Video Mini talks ##
 Some of these are slightly industry oriented but covers different implementations of the causal reasoning theory.

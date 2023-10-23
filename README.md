@@ -1,6 +1,18 @@
 # awesome_causal_inference
 
-## Tutorials of Awesome
+
+
+## Reference for Stats
+
+Library of Lost Stats
+
+https://lost-stats.github.io/
+
+Data analysis
+
+https://gabors-data-analysis.com/
+
+## Tutorials of Awesome CI
 Causal Inference for R
 
 https://www.r-causal.org/
@@ -33,6 +45,7 @@ Joshua Angrist - Mostly Harmless ecno(Metrics)
 https://www.mostlyharmlesseconometrics.com/
 
 MixTapes - heterogenous matching
+
 https://mixtape.scunning.com/index.html
 
 The Effect
@@ -90,7 +103,7 @@ Big Data timeseries
 
 https://www.youtube.com/watch?v=GTgZfCltMm8
 
-## Seminars of Awesome
+## Seminars of Awesome CI
 Causal Data Science (Amsterdam)
 
 https://www.causalscience.org/
@@ -109,6 +122,12 @@ Causal Inference in Statistics Primer (Judea Pearl)
 Elements of Causal Inference
 
 https://mitpress.mit.edu/9780262344296/elements-of-causal-inference/
+
+## Toolboxes (Toward visual hypothesis)
+
+R_Causal toolbox
+
+https://r-causal.github.io/r-causal-blog/posts/visual-diagnostic-tools/
 
 ## Papers
 Many of these papers will be oriented toward medicine and healthcare

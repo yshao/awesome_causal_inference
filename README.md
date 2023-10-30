@@ -8,10 +8,6 @@ Library of Lost Stats
 
 https://lost-stats.github.io/
 
-Data analysis
-
-https://gabors-data-analysis.com/
-
 ## Tutorials of Awesome CI
 Causal Inference for R
 
@@ -36,6 +32,11 @@ KDD 2021 & 2023
 https://causal-machine-learning.github.io/kdd2021-tutorial/
 
 ## Workshops of Awesome
+
+Gabor Data analysis from Exploration to Causal Inference
+
+https://gabors-data-analysis.com/
+
 Spartans of Time - Causa Inference of Brave and True
 
 https://matheusfacure.github.io/python-causality-handbook/landing-page.html
@@ -123,11 +124,24 @@ Elements of Causal Inference
 
 https://mitpress.mit.edu/9780262344296/elements-of-causal-inference/
 
+## Recent Coding and Books (software engineering)
+
+Causal Inference in Python
+
+Causal Inference and Discovery in Python
+
+
 ## Toolboxes (Toward visual hypothesis)
+
+A liking for R is that many stats curricula and thoughts aggregate into these packages. Hence, a greater agreement of terminology, presentation, styles.
 
 R_Causal toolbox
 
 https://r-causal.github.io/r-causal-blog/posts/visual-diagnostic-tools/
+
+Clinical Reporting Summary (aka. TableOne)
+
+https://www.danieldsjoberg.com/clinical-reporting-gtsummary-rmed/
 
 ## Papers
 Many of these papers will be oriented toward medicine and healthcare
